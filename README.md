@@ -29,3 +29,5 @@ Por motivos de segurança, o acesso ao painel administrativo é protegido por au
 Essa medida foi adotada para evitar alterações indevidas no banco de dados da aplicação hospedada, garantindo a integridade das informações, dos produtos cadastrados e dos pedidos registrados.
 
 Dessa forma, visitantes podem analisar livremente o código-fonte da área administrativa, mas não conseguem utilizar as funções de gerenciamento sem autorização.
+
+## Caso você queira testar a área admin é só baixar todos os arquivos e o banco de dados

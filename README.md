@@ -109,7 +109,7 @@ git clone URL_DO_REPOSITORIO
 Entre na pasta do projeto:
 
 ```bash
-cd Projetofinal
+cd ClutchOne
 ```
 
 Inicie os containers:
@@ -152,7 +152,7 @@ git clone URL_DO_REPOSITORIO
 Entre na pasta:
 
 ```bash
-cd Projetofinal
+cd ClutchOne
 ```
 
 Crie o banco de dados:

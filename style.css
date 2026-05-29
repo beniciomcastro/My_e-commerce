@@ -2405,3 +2405,139 @@ body.admin-home-body {
     }
 }
 
+/* =========================
+   LOGIN ADMIN
+========================= */
+
+.admin-login-page {
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #0b0b0b;
+}
+
+.admin-login-box {
+    width: 100%;
+    max-width: 420px;
+
+    background: rgba(20,20,20,.95);
+
+    border: 1px solid rgba(255,255,255,.08);
+
+    border-radius: 20px;
+
+    padding: 40px;
+
+    box-shadow:
+        0 20px 40px rgba(0,0,0,.4),
+        0 0 30px rgba(255,106,0,.08);
+}
+
+.admin-login-box h1 {
+    text-align: center;
+    color: #ff6a00;
+    margin-bottom: 10px;
+}
+
+.admin-login-box p {
+    text-align: center;
+    color: #b8b8b8;
+    margin-bottom: 25px;
+}
+
+.admin-login-box input {
+    width: 100%;
+
+    padding: 14px;
+
+    margin-bottom: 14px;
+
+    background: #1a1a1a;
+
+    border: 1px solid #2b2b2b;
+
+    border-radius: 12px;
+
+    color: white;
+}
+
+.admin-login-box input:focus {
+    outline: none;
+
+    border-color: #ff6a00;
+
+    box-shadow: 0 0 12px rgba(255,106,0,.3);
+}
+
+.admin-login-box button {
+    width: 100%;
+
+    padding: 15px;
+
+    border: none;
+
+    border-radius: 12px;
+
+    background: #ff6a00;
+
+    color: white;
+
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition: .25s;
+}
+
+.admin-login-box button:hover {
+    background: #ff7d1a;
+    transform: translateY(-2px);
+}
+
+.login-erro {
+    background: rgba(220,38,38,.15);
+
+    border: 1px solid rgba(220,38,38,.4);
+
+    color: #ff8080;
+
+    padding: 12px;
+
+    border-radius: 10px;
+
+    margin-bottom: 15px;
+}
+
+/* =========================
+   BOTÃO SAIR
+========================= */
+
+.btn-sair-admin {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 8px;
+
+    padding: 12px 18px;
+
+    background: #dc2626;
+
+    color: white;
+
+    border-radius: 12px;
+
+    text-decoration: none;
+
+    font-weight: 700;
+
+    transition: .25s;
+}
+
+.btn-sair-admin:hover {
+    background: #b91c1c;
+    transform: translateY(-2px);
+}

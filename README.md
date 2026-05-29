@@ -17,6 +17,78 @@ Projeto de e-commerce desenvolvido com PHP, MySQL, HTML, CSS e JavaScript.
 
 PHP, MySQL, HTML, CSS e JavaScript.
 
+## Página Inicial
+
+![Home](screenshots/home.png)
+
+---
+
+## Menu Lateral e Navegação
+
+![Menu](screenshots/menu-lateral.png)
+
+---
+
+## Página Institucional
+
+![Sobre](screenshots/sobre.png)
+
+---
+
+## Carrinho de Compras
+
+![Carrinho](screenshots/carrinho.png)
+
+---
+
+## Checkout
+
+![Checkout](screenshots/checkout.png)
+
+---
+
+## Pagamento via Pix
+
+![Pix](screenshots/pagamento-pix.png)
+
+---
+
+## Processamento de Pagamento
+
+![Processando](screenshots/processando.png)
+
+---
+
+## Pagamento Aprovado
+
+![Sucesso](screenshots/pagamento-aprovado.png)
+
+---
+
+## Painel Administrativo
+
+![Admin](screenshots/admin-home.png)
+
+---
+
+## Gerenciamento de Produtos
+
+![Produtos](screenshots/admin-produtos.png)
+
+---
+
+## Gerenciamento de Cupons
+
+![Cupons](screenshots/admin-cupons.png)
+
+---
+
+## Gerenciamento de Pedidos
+
+![Pedidos](screenshots/admin-pedidos.png)
+
+---
+
 # Como executar o projeto
 
 ## Opção 1 — Docker (recomendado)
